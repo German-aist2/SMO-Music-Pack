@@ -1,0 +1,9 @@
+name: "smp"
+displayName: "SMO-Music-Pack"
+subtitle: "V8 Out"
+description: "Ã€ Àﬁ¡»Ã —¬Œ"
+author: "Relusguy"
+minGameVersion: "154"
+version: "1.0"
+hideBrowser: false
+hidden: true
